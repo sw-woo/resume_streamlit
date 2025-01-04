@@ -2,7 +2,7 @@ import streamlit as st
 import random
 import datetime
 
-st.title(':sparkles:로또 생성기:sparkles:')
+st.title(':sparkles:로또 생성기 부자되세요:sparkles:')
 
 
 def generate_lotto():
